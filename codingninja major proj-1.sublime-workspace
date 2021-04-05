@@ -1,0 +1,815 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margi",
+				"margin-top\tproperty"
+			],
+			[
+				"mar",
+				"margin-left\tproperty"
+			],
+			[
+				"s",
+				"sticky\tposition"
+			],
+			[
+				"paddi",
+				"padding\tproperty"
+			],
+			[
+				"fle",
+				"flex-flow\tproperty"
+			],
+			[
+				"f",
+				"font-size\tproperty"
+			],
+			[
+				"padd",
+				"padding-bottom\tproperty"
+			],
+			[
+				"ob",
+				"object-fit\tproperty"
+			],
+			[
+				"text",
+				"text-decoration\tproperty"
+			],
+			[
+				"list",
+				"list-style\tproperty"
+			],
+			[
+				"tran",
+				"translate3d()\ttransform"
+			],
+			[
+				"pos",
+				"position\tproperty"
+			],
+			[
+				"a",
+				"auto\theight"
+			],
+			[
+				"posi",
+				"object-position\tproperty"
+			],
+			[
+				"backc",
+				"background-attachment\tproperty"
+			],
+			[
+				"bac",
+				"background-attachment\tproperty"
+			],
+			[
+				"overf",
+				"overflow-wrap\tproperty"
+			],
+			[
+				"que",
+				"queue-drop"
+			],
+			[
+				"margin",
+				"margin-top\tproperty"
+			],
+			[
+				"marg",
+				"margin-top\tproperty"
+			],
+			[
+				"drop",
+				"dropdown-list"
+			],
+			[
+				"backg",
+				"background-color\tproperty"
+			],
+			[
+				"fil",
+				"filter\tproperty"
+			],
+			[
+				"back",
+				"background-image\tproperty"
+			],
+			[
+				"tra",
+				"transform\tproperty"
+			],
+			[
+				"border-ra",
+				"border-radius\tproperty"
+			],
+			[
+				"border-l",
+				"border-left\tproperty"
+			],
+			[
+				"let",
+				"left\tproperty"
+			],
+			[
+				"song",
+				"song-play"
+			],
+			[
+				"bor",
+				"border-color\tproperty"
+			],
+			[
+				"al",
+				"absolute\tposition"
+			],
+			[
+				"tes",
+				"text-decoration-style\tproperty"
+			],
+			[
+				"trans",
+				"transform\tproperty"
+			],
+			[
+				"sca",
+				"scale3d()\ttransform"
+			],
+			[
+				"scale",
+				"scale()\ttransform"
+			],
+			[
+				"tranf",
+				"transform\tproperty"
+			],
+			[
+				"l",
+				"list-style\tproperty"
+			],
+			[
+				"tex",
+				"text-decoration\tproperty"
+			],
+			[
+				"bacl",
+				"background-color\tproperty"
+			],
+			[
+				"borr",
+				"border-radius\tproperty"
+			],
+			[
+				"c",
+				"cover\tbackground-size"
+			],
+			[
+				"flex",
+				"flex-grow\tproperty"
+			],
+			[
+				"arijit",
+				"arijit-artist-playlist"
+			],
+			[
+				"ar",
+				"artist"
+			],
+			[
+				"min",
+				"min-width\tproperty"
+			],
+			[
+				"p",
+				"progress\tcursor"
+			],
+			[
+				"sp",
+				"space-between\tjustify-content"
+			],
+			[
+				"rele",
+				"release-box"
+			],
+			[
+				"fl",
+				"flex-direction\tproperty"
+			],
+			[
+				"pa",
+				"padding-top\tproperty"
+			],
+			[
+				"vie",
+				"vertical-align\tproperty"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"b",
+				"bolder\tfont-weight"
+			],
+			[
+				"ma",
+				"margin-left\tproperty"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"in",
+				"inline-block\tdisplay"
+			],
+			[
+				"box",
+				"box-shadow\tproperty"
+			],
+			[
+				"track",
+				"track-1"
+			],
+			[
+				"over",
+				"overflow\tproperty"
+			],
+			[
+				"simi",
+				"similar-artist-playlist"
+			],
+			[
+				"spa",
+				"space-around\tjustify-content"
+			],
+			[
+				"grid-auto",
+				"grid-auto-rows\tproperty"
+			],
+			[
+				"gr",
+				"grid-gap\tproperty"
+			],
+			[
+				"w",
+				"width\tproperty"
+			],
+			[
+				"fot",
+				"font-family\tproperty"
+			],
+			[
+				"ali",
+				"align-items\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"max-",
+				"max-height\tproperty"
+			],
+			[
+				"alig",
+				"align-items\tproperty"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"le",
+				"letter-spacing\tproperty"
+			],
+			[
+				"grid",
+				"grid-template-areas\tproperty"
+			],
+			[
+				"grid-a",
+				"grid-auto-rows\tproperty"
+			],
+			[
+				"nam",
+				"name-social-container"
+			],
+			[
+				"bx",
+				"box-sizing\tproperty"
+			],
+			[
+				"cl",
+				"clear\tproperty"
+			],
+			[
+				"border",
+				"border-bottom-color\tproperty"
+			],
+			[
+				"wr",
+				"word-wrap\tproperty"
+			],
+			[
+				"li",
+				"line-height\tproperty"
+			],
+			[
+				"to",
+				"toggle"
+			],
+			[
+				"fo",
+				"font-size\tproperty"
+			],
+			[
+				"tr",
+				"translateY()\ttransform"
+			],
+			[
+				"josi",
+				"joshigayatrivijay69"
+			],
+			[
+				"dr",
+				"dropdown-list"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"no",
+				"no-list-style"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"my",
+				"my-details-info-container"
+			],
+			[
+				"port",
+				"portfolio-container"
+			],
+			[
+				"div",
+				"div-1-2"
+			],
+			[
+				"wo",
+				"word-wrap\tproperty"
+			],
+			[
+				"por",
+				"portfolio-container"
+			],
+			[
+				"sol",
+				"name-social-container"
+			],
+			[
+				"po",
+				"padding-bottom\tproperty"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"sect",
+				"section-heading"
+			],
+			[
+				"h",
+				"height\tproperty"
+			],
+			[
+				"space",
+				"space-between\tjustify-content"
+			],
+			[
+				"te",
+				"text-align\tproperty"
+			],
+			[
+				"ALI",
+				"align-items\tproperty"
+			],
+			[
+				"font-",
+				"font-family\tproperty"
+			],
+			[
+				"spac",
+				"space-between\tjustify-content"
+			],
+			[
+				"text-a",
+				"text-align\tproperty"
+			],
+			[
+				"inline",
+				"inline-block\tdisplay"
+			],
+			[
+				"si",
+				"SKILLS"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"todo",
+				"Todo"
+			],
+			[
+				"ra",
+				"randomColor"
+			],
+			[
+				"ge",
+				"generateRandomColors"
+			],
+			[
+				"clic",
+				"clickedColor"
+			],
+			[
+				"color",
+				"colorDisplay"
+			],
+			[
+				"navba",
+				"navbar-toggler"
+			],
+			[
+				"background-c",
+				"background-color\tproperty"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "screen1.html",
+			"settings":
+			{
+				"buffer_size": 57970,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "SinglePlaylist.html",
+			"settings":
+			{
+				"buffer_size": 21598,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "SinglePlaylist.css",
+			"settings":
+			{
+				"buffer_size": 17455,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 171.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Gyatri/Desktop/codingNinja/Music Player Project"
+	],
+	"file_history":
+	[
+		"/C/Users/Gyatri/Desktop/codingNinja/musicplayer.html",
+		"/C/Users/Gyatri/Desktop/codingNinja/musicplayer.css",
+		"/C/Users/Gyatri/Desktop/codingNinja/screen1.html",
+		"/C/Users/Gyatri/Desktop/codingNinja/screen1.css",
+		"/C/Users/Gyatri/Desktop/codingNinja/3dcube.html",
+		"/C/Users/Gyatri/Desktop/codingNinja/cube.css",
+		"/C/Users/Gyatri/Desktop/codingNinja/resume2.html",
+		"/C/Users/Gyatri/Desktop/codingNinja/resume2.css",
+		"/C/Users/Gyatri/Desktop/codingNinja/res",
+		"/C/Users/Gyatri/Desktop/codingNinja/screen2.html",
+		"/C/Users/Gyatri/Desktop/codingNinja/flexdemo.html",
+		"/C/Users/Gyatri/Desktop/codingNinja/flexdemo.css",
+		"/C/Users/Gyatri/Desktop/codingNinja/index.html",
+		"/C/Users/Gyatri/Desktop/codingNinja/index.css",
+		"/C/Users/Gyatri/Desktop/codingNinja/mus",
+		"/C/Users/Gyatri/Desktop/codingNinja/navbars.html",
+		"/C/Users/Gyatri/Desktop/codingNinja/navbars.css",
+		"/C/Users/Gyatri/Documents/colorgameproj/colorgame/colorgame.html",
+		"/C/Users/Gyatri/Desktop/codingNinja/3Dcube",
+		"/C/Users/Gyatri/Documents/colorgameproj/colorgame/colorGame.js",
+		"/C/Users/Gyatri/Documents/colorgameproj/colorgame/colorgame.css",
+		"/C/Users/Gyatri/Documents/colorgameproj/colorGame.js",
+		"/C/Users/Gyatri/Documents/colorgameproj/colorgame.css",
+		"/C/Users/Gyatri/Desktop/codingNinja/project/resumeProject/html/resume.html",
+		"/C/Program Files/Sublime Text 3/sublime work/resumeProject/frzi.html",
+		"/C/Program Files/Sublime Text 3/sublime work/resumeProject/frzi.css",
+		"/C/Program Files/Sublime Text 3/sublime work/resumeProject/frzi1.css",
+		"/C/Program Files/Sublime Text 3/sublime work/resumeProject/resume1.html",
+		"/C/Program Files/Sublime Text 3/sublime work/resumeProject/css/resume.css",
+		"/C/Program Files/Sublime Text 3/sublime work/resumeProject/resume1",
+		"/C/Users/Gyatri/Documents/Todolist project/assests/js/Todos.js",
+		"/C/Users/Gyatri/Documents/index.html",
+		"/C/Program Files/Sublime Text 3/sublime work/sublime1.html",
+		"/C/Users/Gyatri/Documents/app.css",
+		"/C/Users/Gyatri/Documents/colorgame.css",
+		"/C/Users/Gyatri/Documents/colorgame.html",
+		"/C/Users/Gyatri/Documents/colorGame.js",
+		"/C/Users/Gyatri/Documents/colorgame.js",
+		"/C/Users/Gyatri/Documents/_colorGame_.js",
+		"/C/Users/Gyatri/Documents/_colorgame_.js",
+		"/C/Users/Gyatri/Documents/firstboot.html",
+		"/C/Users/Gyatri/Documents/MuseumOfCandy.html",
+		"/C/Users/Gyatri/Documents/bear.html",
+		"/C/Users/Gyatri/Documents/boot.html",
+		"/C/Users/Gyatri/Documents/sublime1.html",
+		"/C/Users/Gyatri/Documents/pikachu.html",
+		"/C/Users/Gyatri/Documents/pikachu.css",
+		"/C/Users/Gyatri/Documents/codepen2.css",
+		"/C/Users/Gyatri/Documents/bear.css",
+		"/C/Users/Gyatri/Documents/.css",
+		"/C/Users/Gyatri/Documents/html css tasks/cake.html",
+		"/C/Users/Gyatri/Documents/HTML&CSS (ST-02)/task2.html"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 107.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"20",
+			"a",
+			"release",
+			"  #",
+			";\n",
+			"6rem",
+			"40",
+			"2",
+			"container",
+			"></",
+			";\">",
+			"+.",
+			";\n",
+			"6rem",
+			"0"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "screen1.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 57970,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								70,
+								70
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "SinglePlaylist.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 21598,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								699,
+								699
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"file": "Workout.jpeg",
+					"semi_transient": true,
+					"stack_index": 2,
+					"type": "image"
+				},
+				{
+					"buffer": 2,
+					"file": "SinglePlaylist.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 17455,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 41.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "codingninja major proj-1.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 210.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
